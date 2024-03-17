@@ -5,7 +5,7 @@ and complete an “order” for three items of the first product, four items of 
 product, and two items of the third product. Add them all together to calculate the subtotal. Create a constant called SALES_TAX and add sales tax to the subtotal to obtain the totalSale amount. Be sure to format the results to two decimal places.
  */
 
-package com.perscholas.java_basics;
+package com.perscholas.java_basics.variables;
 
 import java.text.DecimalFormat;
 

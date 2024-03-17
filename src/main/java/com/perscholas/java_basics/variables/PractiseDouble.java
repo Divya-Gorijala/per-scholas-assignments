@@ -1,4 +1,4 @@
-package com.perscholas.java_basics;
+package com.perscholas.java_basics.variables;
 
 public class PractiseDouble {
         public static void main(String[] args){

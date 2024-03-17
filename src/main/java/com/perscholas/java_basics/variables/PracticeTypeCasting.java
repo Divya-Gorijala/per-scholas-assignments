@@ -1,4 +1,4 @@
-package com.perscholas.java_basics;
+package com.perscholas.java_basics.variables;
 
 public class PracticeTypeCasting {
     public static void main(String[] args) {
