@@ -1,4 +1,4 @@
-package com.perscholas.java_basics.control_flow.glab_for_loop;
+package com.perscholas.java_basics.control_flow.glab1_for_loop;
 
 public class SumNaturalNumbers {
     public static void main(String[] args) {
